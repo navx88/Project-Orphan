@@ -1,5 +1,5 @@
 # Project-Orphan
-An cyberpunk themed RPG driven by choice and conversation.
+A cyberpunk themed RPG driven by choice and conversation.
 
 To Add: 
 1: Open shell
