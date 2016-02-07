@@ -1,5 +1,5 @@
--gender for whatsherface (adapt plot or just make it a girl/guy)
--eleanor densen
--items that are obtainable or usable at intro
--attributes for base class
--modify protagonist 
+-gender for whatsherface (adapt plot or just make it a girl/guy) -> she's a girl, deal with it, it's 2016, also I'm lazy so stfu I don't wanna deal with it
+-eleanor densen -> on it
+-items that are obtainable or usable at intro -> on it
+-attributes for base class -> done for now (we can always revisit it though)
+-modify protagonist -> done
