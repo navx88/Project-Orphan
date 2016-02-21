@@ -7,7 +7,15 @@ class itemClass(self, name):
 		self.description = description
 		self.stats = [0,0,0,0,0,0,0,0]
 
-	def assignStats(self,int,ext,fee,thi,jud,sen,int2,per,):
+	def assignStats(self,intr,ext,fee,thi,jud,sen,intu,per):
+		self.stats[0] = intr
+		self.stats[1] = ext
+		self.stats[2] = fee
+		self.stats[3] = thi
+		self.stats[4] = jud
+		self.stats[5] = sen
+		self.stats[6] = intu
+		self.stats[7] = per
 
 	def displayStats(self, name):
 
