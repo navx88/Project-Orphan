@@ -1,12 +1,13 @@
 
 class itemClass(self, name):
 
-	def __init__(self,name,type,description):
+	def __init__(self,idNum,name,itemType,description):
+		self.idNum = idNum
 		self.name = name
-		self.type = type
+		self.itemType = itemType
 		self.description = description
 		self.stats = [0,0,0,0,0,0,0,0]
-
+		
 	def assignStats(self,intr,ext,fee,thi,jud,sen,intu,per):
 		self.stats[0] = intr
 		self.stats[1] = ext
